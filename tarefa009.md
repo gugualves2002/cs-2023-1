@@ -1,0 +1,7 @@
+  O artigo discute o funcionamento do gerenciamento de código-fonte e destaca suas principais ideias. O gerenciamento de código-fonte envolve o uso de um software de controle de revisões, onde 
+os programadores podem trabalhar com abordagens diferentes para o desenvolvimento de softwares. O artigo enfatiza a importância do gerenciamento de código-fonte, destacando os benefícios, como o registro de alterações, a criação de backups, a rápida identificação de falhas, o desenvolvimento e a aplicação de novos recursos facilitados, o melhor controle de acesso autorizado e a 
+resolução ágil de conflitos de mudanças. O texto também oferece dicas sobre como aplicar um bom gerenciamento de código-fonte, como manter códigos limpos e compreensíveis, registrar e 
+compartilhar bibliotecas de desenvolvimento, usar branches e labels para versionamento e automatizar as operações para aumentar a eficiência e a qualidade dos códigos. O artigo conclui 
+ressaltando que o gerenciamento de código-fonte pode influenciar diretamente a competitividade do negócio e, portanto, é importante considerá-lo.
+  Devido à experiência de trabalho, sou familiarizado com os principais conceitos de gerenciamento de código-fonte, inclusive o uso de software de versionamento de código. Apesar disso, a
+leitura e estudo do artigo foi de suma importância para reforçar conceitos teóricos que não são tão aplicados no dia-a-dia, mas o que não os torna menos importantes que outros.
