@@ -1,0 +1,9 @@
+country.name=Country Name
+country.language=Language
+country.short.date=Short Date
+country.long.date=Long Date
+country.time.format=Time Format
+country.currency.symbol=Currency Symbol
+country.decimal.separator=Decimal Separator
+country.grouping.separator=Grouping Separator
+country.windows.codepage=Windows Code Page
