@@ -1,0 +1,10 @@
+country.name=Nom du pays
+country.language=Langue
+country.short.date=Date courte
+country.long.date=Date longue
+country.time.format=Format de l'heure
+country.currency.symbol=Symbole de la devise
+country.decimal.separator=Séparateur décimal
+country.grouping.separator=Séparateur de milliers
+country.windows.codepage=Page de code Windows
+greeting=Bonjour
